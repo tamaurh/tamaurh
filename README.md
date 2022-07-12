@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamaurh
 - 👀 I’m interested in automation and artifical intelligence.
-- 🌱 I’m currently learning html.
+- 🌱 I’m currently learning cpp.
 - 💞️ I’m looking to collaborate on project dealing with automation and artificial intelligence
 - 📫 How to reach me: pabayo.sammer1@gmail.com  or https://www.facebook.com/s.pabzz
 
